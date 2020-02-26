@@ -1,1 +1,1 @@
-# ColorIconApp
+This app will allow a user to select a color then will open another page displaying the color and the name of the color that the user choose. I added a custom icon to my app and, I enerated a signed APK that is ready to be distributed.
